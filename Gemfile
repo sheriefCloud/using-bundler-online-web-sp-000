@@ -17,9 +17,9 @@ group :test do
 gem "rspec"
 end
 
-
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
+# 
+# Hashie
+# Sinatra
+# Octokit
+# Pry
+# AwesomePrint
