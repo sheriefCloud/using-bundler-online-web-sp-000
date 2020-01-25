@@ -17,7 +17,7 @@ group :test do
 gem "rspec"
 end
 
-# 
+#
 # Hashie
 # Sinatra
 # Octokit
