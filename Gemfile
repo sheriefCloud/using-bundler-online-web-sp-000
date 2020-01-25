@@ -8,10 +8,10 @@ gem 'octokit' , '~>2.0'
 
 gem 'AwesomePrint' ,
 
-gem "pry", :group => :development
-# group :development do
-# gem "pry"
-# end
+#gem "pry", :group => :development
+group :development do
+gem "pry"
+end
 
 group :test do
 gem "rspec"
